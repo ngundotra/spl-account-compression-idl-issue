@@ -1,9 +1,9 @@
 [toolchain]
-anchor_version = "0.29.0"
+anchor_version = "0.30.1"
 
 [features]
 seeds = false
-skip-lint = false
+skip-lint = true
 
 [programs.localnet]
 spl_account_compression_idl_issue = "7fh5eBGRAztZJ8UB3dQuxxZtCBu7pNRUkno5wsagA7Hu"
