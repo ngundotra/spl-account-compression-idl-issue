@@ -11,7 +11,7 @@ use crate::spl_account_compression::program::SplAccountCompression;
 pub struct Noop;
 impl anchor_lang::Id for Noop {
     fn id() -> Pubkey {
-        Pubkey::from_str("noopb9bkMVfRHzfJH4k4wmkDQJ6JkPwnZnk4wHX9xYj1").unwrap()
+        Pubkey::from_str("noopb9bkMVfRPU8AsbpTUg8AQkHtKwMYZiFUjNRtMmV").unwrap()
     }
 }
 
